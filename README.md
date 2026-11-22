@@ -1,2 +1,2 @@
-# InvenTrack-Pro
+# SmartStock-pro
  https://SmartStock-pro.onrender.com/
