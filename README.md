@@ -1,2 +1,2 @@
-# SmartStock-pro
- https://SmartStock-pro.onrender.com/
+# SmartStock AI
+https://smartstock-deployment.onrender.com/
